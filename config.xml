@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Chef Tony Android</name>
+    <name>Chef Tony Richmond</name>
 	<icon src="res/icon/ios/icon.png" />
 	<icon src="res/icon/ios/icon.png" platform="ios"/>
 	<platform name="ios">
