@@ -424,7 +424,7 @@ sup{
 	padding-top:10px;
 }
 .is_english .list_item .price {
-	top:3px;
+	top:-4px;
 }
 .is_english .list_item h1{
 	font-size: 1.6em;
