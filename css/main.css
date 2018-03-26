@@ -62,7 +62,7 @@ h1{
 	width: 100%;
 	z-index: 1000;
 	/*adjustment to top bar overlapping bug: */
-	top:10px;
+	/*top:10px;*/
 }
 #header img{
 	vertical-align: middle;
