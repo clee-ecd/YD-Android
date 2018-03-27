@@ -21,11 +21,11 @@ var selScrollable = '.menu_body#gridview';
 	  }
 	});
 	// Stops preventDefault from being called on document if it sees a scrollable div
-	// $('body').on('touchmove', selScrollable, function(e) {
-	//   if($(this)[0].scrollHeight > $(this).innerHeight()) {
-	// 		e.stopPropagation();
-	// 	}
-	// });
+	$('body').on('touchmove', selScrollable, function(e) {
+	  if($(this)[0].scrollHeight > $(this).innerHeight()) {
+			e.stopPropagation();
+		}
+	});
 
 //GG add starts
 

@@ -10,6 +10,8 @@
     <name>Chef Tony Richmond</name>
 	<icon src="res/icon/ios/icon.png" />
 	<icon src="res/icon/ios/icon.png" platform="ios"/>
+  <preference name="Fullscreen" value="true" /> 
+  <preference name="StatusBarOverlaysWebView" value="true" />
 	<platform name="ios">
   <icon height="57" platform="ios" src="res/icon/ios/icon.png" width="57" />
   <icon height="114" platform="ios" src="res/icon/ios/icon@2x.png" width="114" />
@@ -37,7 +39,7 @@
   <splash height="1024" platform="ios" src="res/screen/ios/Default-Portrait~ipad.png" width="768" />
   <splash height="960" platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" />
   <splash height="480" platform="ios" src="res/screen/ios/Default~iphone.png" width="320" />
-  <preference name="Fullscreen" value="true" />
+
 </platform>
     <description>
         Application for Chef Tony Menu.
@@ -50,7 +52,7 @@
 	<gap:platform name="android" />
 	
 	<!-- Define app splash screen for platform. -->
-	<gap:splash src="res/screens/ios/Default-Portrait~ipad.png" gap:platform="ios" width="1024" height="748" />
+	<gap:splash src="res/screens/ios/Default-Portrait~ipad.png" gap:platform="ios" width="1024" height="768" />
 	
 
 </widget>
