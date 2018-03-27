@@ -10,7 +10,7 @@
     <name>Chef Tony Richmond</name>
 	<icon src="res/icon/ios/icon.png" />
 	<icon src="res/icon/ios/icon.png" platform="ios"/>
-	<platform name="ios">
+	<platform>
   <icon height="57" platform="ios" src="res/icon/ios/icon.png" width="57" />
   <icon height="114" platform="ios" src="res/icon/ios/icon@2x.png" width="114" />
   <icon height="40" platform="ios" src="res/icon/ios/icon-40.png" width="40" />
@@ -37,6 +37,7 @@
   <splash height="1024" platform="ios" src="res/screen/ios/Default-Portrait~ipad.png" width="768" />
   <splash height="960" platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" />
   <splash height="480" platform="ios" src="res/screen/ios/Default~iphone.png" width="320" />
+  <preference name="Fullscreen" value="true" />
 </platform>
     <description>
         Application for Chef Tony Menu.
