@@ -426,13 +426,14 @@ sup{
 	padding-top:10px;
 }
 .is_english .list_item .price {
-	top:-4px;
+	top:3px;
 }
 .is_english .list_item h1{
 	font-size: 1.6em;
 	line-height:1.1em;
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 	text-transform:capitalize;
+	padding-top: 3px;
 }
 .list_item img{
 /*	position:absolute;*/
