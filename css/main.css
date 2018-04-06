@@ -83,7 +83,7 @@ h1{
 	position: relative;
 	right: 35px;
 	top: 24px;
-	padding-top: 5px;
+	padding-top: 4px;
 }
 .lang:before{
 	content:"";
@@ -107,7 +107,7 @@ h1{
 	font-weight:600;
 }
 #back {
-	padding-top: 5px;
+	padding-top: 4px;
 }
 #legend span{
 	bottom: -3px;
@@ -163,7 +163,7 @@ h1{
 .mainindex a{
 	border: 1px solid #431700;
 	color: #431700;
-padding: 7px 25px 0px;
+padding: 7px 25px 2px;
 margin-left: 15px;
 font-size: 1.3em;
 font-weight: 600;
