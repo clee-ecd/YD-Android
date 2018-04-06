@@ -82,7 +82,7 @@ h1{
 	float:right;
 	position: relative;
 	right: 35px;
-	top: 24px;
+	top: 29px;
 }
 .lang:before{
 	content:"";
@@ -99,7 +99,7 @@ h1{
 	/*top: 19px;
 	left: 50%;*/
 	float:right;
-	top: 24px; /*
+	top: 29px; /*
 	right:176px;*/
 	right: 145px;
 	color:#e30404;
@@ -159,7 +159,7 @@ h1{
 .mainindex a{
 	border: 1px solid #431700;
 	color: #431700;
-padding: 5px 25px;
+padding: 9px 25px 0;
 margin-left: 15px;
 font-size: 1.3em;
 font-weight: 600;
@@ -171,6 +171,7 @@ max-height: 27px;
 width: 85px;
 height: 27px;
 }
+
 .link_wrap{
 	position: absolute;
 top: 233px;
