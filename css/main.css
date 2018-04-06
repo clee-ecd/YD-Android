@@ -82,7 +82,9 @@ h1{
 	float:right;
 	position: relative;
 	right: 35px;
-	top: 29px;
+	top: 24px;
+	padding-top: 5px;
+}
 }
 .lang:before{
 	content:"";
@@ -99,11 +101,12 @@ h1{
 	/*top: 19px;
 	left: 50%;*/
 	float:right;
-	top: 29px; /*
+	top: 24px; /*
 	right:176px;*/
 	right: 145px;
 	color:#e30404;
 	font-weight:600;
+	padding-top: 5px;
 }
 #legend span{
 	bottom: -3px;
@@ -159,7 +162,7 @@ h1{
 .mainindex a{
 	border: 1px solid #431700;
 	color: #431700;
-padding: 9px 25px 0;
+padding: 7px 25px 0;
 margin-left: 15px;
 font-size: 1.3em;
 font-weight: 600;
