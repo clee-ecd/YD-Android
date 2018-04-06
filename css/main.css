@@ -85,7 +85,6 @@ h1{
 	top: 24px;
 	padding-top: 5px;
 }
-}
 .lang:before{
 	content:"";
 	background: url(../images/main_sprite.png) -185px -10px no-repeat;
@@ -106,6 +105,8 @@ h1{
 	right: 145px;
 	color:#e30404;
 	font-weight:600;
+}
+#back {
 	padding-top: 5px;
 }
 #legend span{
@@ -162,7 +163,7 @@ h1{
 .mainindex a{
 	border: 1px solid #431700;
 	color: #431700;
-padding: 7px 25px 0;
+padding: 7px 25px 0px;
 margin-left: 15px;
 font-size: 1.3em;
 font-weight: 600;
@@ -174,7 +175,6 @@ max-height: 27px;
 width: 85px;
 height: 27px;
 }
-
 .link_wrap{
 	position: absolute;
 top: 233px;
