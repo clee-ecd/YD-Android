@@ -85,15 +85,20 @@ h1{
 	top: 24px;
 	padding-top: 4px;
 }
+.lang img {
+	width:90px;
+	left: -85px;
+	top: 20px !important;
+}
 .lang:before{
-	content:"";
+	/*content:"";
 	background: url(../images/main_sprite.png) -185px -10px no-repeat;
 	width: 30px;
 	height: 30px;
 	display: block;
 	position: absolute;
 	top: -5px;
-	left: -37px;
+	left: -37px;*/
 }
 #back, #legend{
 	position: absolute;
@@ -109,6 +114,11 @@ h1{
 #back {
 	padding-top: 4px;
 }
+#back img {
+	width:90px;
+	left: -70px;
+	top: 20px;
+}
 #legend span{
 	bottom: -3px;
 	right: 35px;
@@ -116,18 +126,18 @@ h1{
 #legend.is_english span{
 	right: 116px !important;
 }
-#back.is_english{
+/*#back.is_english{
 	right: 127px;
-}
+}*/
 #back:before{
-	content:"";
+	/*content:"";
 	background: url(../images/main_sprite.png) -152px -10px no-repeat;
 	width: 30px;
 	height: 30px;
 	display: block;
 	position: absolute;
 	top: -5px;
-	left: -37px;
+	left: -37px;*/
 }
 
 /***********************/
@@ -161,7 +171,7 @@ h1{
 	right: 47px;
 }
 .mainindex a{
-	border: 1px solid #431700;
+	/*border: 1px solid #431700;
 	color: #431700;
 padding: 7px 25px 2px;
 margin-left: 15px;
@@ -173,11 +183,16 @@ float: left;
 text-align: center;
 max-height: 27px;
 width: 85px;
-height: 27px;
+height: 27px;*/
+}
+.mainindex img {
+	width: 140px; 
+	float: left;
+	margin-left: 15px;
 }
 .link_wrap{
 	position: absolute;
-top: 233px;
+top: 220px;
 left: 667px;
 width: 330px;
 }

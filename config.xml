@@ -53,5 +53,4 @@
 	<!-- Define app splash screen for platform. -->
 	<gap:splash src="res/screens/ios/Default-Portrait~ipad.png" gap:platform="ios" width="1024" height="748" />
 	
-
 </widget>
