@@ -484,6 +484,16 @@ sup{
 	right: 3px;
 	z-index: 1;
 }
+.spicy_icon{
+	background:url(../images/main_sprite.png) -3px -405px no-repeat;
+	width: 32px;
+	height: 30px;
+	display: block;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	z-index: 1;
+}
 .tags{
 	margin-top:6px;
 	display:none;
@@ -496,6 +506,15 @@ sup{
 	display:block;
 	position: absolute;
 	bottom: 5px;
+}
+
+.tags.chilli {
+	display: block;
+}
+.tags.chilli .spicy_icon {
+	position: relative;
+	bottom: 0;
+    right: 0;
 }
 .bbqlist .tags p,
 .souplist .tags p{
