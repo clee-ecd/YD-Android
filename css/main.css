@@ -510,6 +510,7 @@ sup{
 
 .tags.chilli {
 	display: block;
+	margin-top: 3px;
 }
 .tags.chilli .spicy_icon {
 	position: relative;
